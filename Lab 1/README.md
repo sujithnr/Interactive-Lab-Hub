@@ -78,16 +78,18 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
-Person A - "This device could potentially be included inside smartfridges to track and automatically order whatever food needs 
+Person A - "This device could potentially be included inside smartfridges to track and automatically orders whatever food spoils or runs out."
+Person B - "One device could potentially be used to track the quality of many foods to save resources."
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 **Are there things that seemed better on paper than acted out?**
+The buttons on the device were simpler to use than initially imagined because of their simple functionality. The buttons felt simple to use because the input was limited to "number of days till expiration" rather than "best by date." As a result, the user just had to play around with a basic counter module to put in the expiration date.  
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
-
+It would be interesting if the screen had capabilities for emojis or images that conveyed the state of the food. This way, the food can be given some sort of personality which could lead to an interesting interactions.
 
 ## Part C. Prototype the device
 
@@ -100,13 +102,14 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 **Give us feedback on Tinkerbelle.**
+Tinkerbelle could have presented ways to put different shapes on the screen to indicate custom buttons. The app could have also allowed for specific sections of the screen to output different colors. This way, the users could have an easier time developing more elaborate prototypes.  
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
 

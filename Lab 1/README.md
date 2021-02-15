@@ -75,6 +75,7 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 **Include a picture of your storyboard here**
 
 ![Screenshot](storyboard-1.jpg)
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
@@ -86,9 +87,11 @@ Person B - "One device could potentially be used to track the quality of many fo
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 **Are there things that seemed better on paper than acted out?**
-The buttons on the device were simpler to use than initially imagined because of their simple functionality. The buttons felt simple to use because the input was limited to "number of days till expiration" rather than "best by date." As a result, the user just had to play around with a basic counter module to put in the expiration date.  
+
+The buttons on the device were simpler to use than initially imagined because of their limited functionality. The buttons felt simple to use because the input was limited to "number of days till expiration" rather than "best by date" input. As a result, the user just had to play around with a basic counter to put in the expiration date instead of worrying about finding the date on a calendar.  
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
 It would be interesting if the screen had capabilities for emojis or images that conveyed the state of the food. This way, the food can be given some sort of personality which could lead to an interesting interactions.
 
 ## Part C. Prototype the device
@@ -102,6 +105,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 **Give us feedback on Tinkerbelle.**
+
 Tinkerbelle could have presented ways to put different shapes on the screen to indicate custom buttons. The app could have also allowed for specific sections of the screen to output different colors. This way, the users could have an easier time developing more elaborate prototypes.  
 
 ## Part D. Wizard the device
@@ -110,6 +114,7 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 **Include your first attempts at recording the set-up video here.**
 
 The video shows the first part of the goal which is to have the phone connect to the server established on the desktop. Then when the color on the server was changed to green, the phone screen also changed to green. The green indicates that the food is fresh.
+
 Link to Video: https://drive.google.com/file/d/17FmH0yKVu2lY6_4bS3hzo0GJDubrJXR7/view?usp=sharing
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
@@ -117,7 +122,9 @@ Now, change the goal within the same setting, and update the interaction with th
 **Show the follow-up work here.**
 
 The video shows the screen changing from green to red which is a part of the goal when the food starts to spoil.
+
 Link to Video: https://drive.google.com/file/d/1Y_OJBLNz67Xb3dKK_k8LHMnq_7C79gSY/view?usp=sharing
+
 ## Part E. Costume the device
 
 Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
@@ -126,15 +133,26 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+![Screenshot](sketch-1.jpg)
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
+The front view shows a screen, two arrow buttons, and a round button. The screen was chosen to act as a menu for selecting when the food will expire and for displaying the condition of the food. The arrow buttons were chosen as a simple way to count up or down for the number of days before expiration, and the round button was chosen to serve as a selection and reset mechanism. The arrow shape of the button conveys the direction along which the number of days changes and the round shape was chosen to be a neutral figure between the arrows. 
+
+The back view of the device shows magnets attached to the device. The magnets were chosen as a way to fasten the device to a food container. The food container would also need to be embedded with magnets to help attach the device to the food.
+
+The outer shell of the device will be made out of an insulating material like plastic, because the device will often be exposed to cold settings like the refrigerator. The plastic case will allow the device to not be extremely cool to the touch when interacting with it in the cold. 
 
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
 
+Link to video: https://drive.google.com/file/d/1F5hqYsaNUelsNbugPMI_HwV0Q26_S3bk/view?usp=sharing
+
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+Andrew Tsai helped me film the video and operate Tinkerbelle.
 
 # Staging Interaction, Part 2 
 

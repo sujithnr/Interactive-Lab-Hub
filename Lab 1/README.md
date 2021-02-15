@@ -74,7 +74,7 @@ The setting for the activity is a refrigerator and the players are the individua
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
-![Screenshot](storyboard.jpg)
+![Screenshot](storyboard-1.jpg)
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 

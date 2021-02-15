@@ -109,12 +109,14 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 **Include your first attempts at recording the set-up video here.**
 
+The video shows the first part of the goal which is to have the phone connect to the server established on the desktop. Then when the color on the server was changed to green, the phone screen also changed to green. The green indicates that the food is fresh.
 Link to Video: https://drive.google.com/file/d/17FmH0yKVu2lY6_4bS3hzo0GJDubrJXR7/view?usp=sharing
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
 
+The video shows the screen changing from green to red which is a part of the goal when the food starts to spoil.
 Link to Video: https://drive.google.com/file/d/1Y_OJBLNz67Xb3dKK_k8LHMnq_7C79gSY/view?usp=sharing
 ## Part E. Costume the device
 

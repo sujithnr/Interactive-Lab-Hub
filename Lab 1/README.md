@@ -69,12 +69,16 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
+The setting for the activity is a refrigerator and the players are the individuals inhabiting the location that has the refrigerator. The device can be used to determine the freshness of certain foods in the refrigerator. As soon as the food is purchased or made, the user sets the expiration date for the food on the device. Initially, the device outputs green light to indicate to the players that the food is still fresh, but overtime the light turns yellow and then red to indicate that the food starting to rot. The goal of the players is to interact with the device to determine the freshness of the food and consume the food before the food spoils and the light on the device turns red. 
+
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
+
 ![Screenshot](storyboard.jpg)
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
+**Do with Andrew.**
 
 ## Part B. Act out the Interaction
 

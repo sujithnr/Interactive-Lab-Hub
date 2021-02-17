@@ -165,6 +165,12 @@ You will be assigned three partners from another group. Go to their github pages
 
 **Summarize feedback from your partners here.**
 
+Caitlin Stanton - "I thought it was interesting your prototype is a magnet that can be affixed to a container, because my initial thought was having the device be the container itself. There are pros and cons to each (the former is a little more flexible but the food containers need magnets, the latter is more convenient but may be more expensive). I was wondering how it would be used for food that has an expiration date when unopened and another once opened: is the interface to just set a time range that it's okay to eat, rather than explicitly only using the expiration date? It would be useful to maybe have a central device on the outside of your fridge or a connected phone app to have a centralized list of all of the devices in your fridge, because otherwise it might still get pushed back into the fridge and forgotten."
+
+Priya Kattappurath - "I was thinking it might be cool if your device had some way of notifying the user that the light would turn red soon, like if it was tied to an app to give a phone notification, or if it beeped when the fridge was opened?"
+
+Grace Tan - " I really like your idea. I liked how it can be easily put on your food! Can you just scan it on food or do you have to leave it on your food the whole time? I also think it would be nice if it can flash or something if you open the fridge and you have to eat something before it's bad, or like toss it out."
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 

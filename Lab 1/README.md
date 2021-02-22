@@ -69,7 +69,7 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
-The setting for the activity is a refrigerator and the players are the individuals inhabiting the location that has the refrigerator. The device can be used to determine the freshness of certain foods in the refrigerator. As soon as the food is purchased or made, the user sets the expiration date for the food on the device. Initially, the device outputs green light to indicate to the players that the food is still fresh, but overtime the light turns yellow and then red to indicate that the food starting to rot. The goal of the players is to interact with the device to determine the freshness of the food and consume the food before the food spoils and the light on the device turns red. 
+The setting for the activity is a refrigerator and the players are the individuals inhabiting the location that has the refrigerator. The device can be used to determine the freshness of certain foods in the refrigerator. As soon as the food is purchased or made, the user sets the expiration date for the food on the device. Initially, the device outputs green light and a smiley face to indicate to the players that the food is still fresh, but overtime the light turns yellow (with a neutral face) and then red (with an angry face) to indicate that the food starting to rot. In addition, there is a webapp that displays the conditions of the various foods tracked by the devices. The webapp also has a calendar feature that can be used to schedule when a particular food will be consumed by the user. The goal of the players is to interact with the device to determine the freshness of the food and consume the food before the food spoils and the light on the device turns red. 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
@@ -147,7 +147,7 @@ The outer shell of the device will be made out of an insulating material like pl
 
 **Take a video of your prototyped interaction.**
 
-Link to video: https://drive.google.com/file/d/1F5hqYsaNUelsNbugPMI_HwV0Q26_S3bk/view?usp=sharing
+Link to video: https://drive.google.com/file/d/1A66iYNVVojUQeOM21AeL0pkRH1EdAVkh/view?usp=sharing
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
